@@ -1,0 +1,6 @@
+db.sqlite3
+geckodriver.log
+venv
+__pycache__
+*.pyc
+__pycache__/functional_tests.cpython-39.pyc
